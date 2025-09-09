@@ -1,0 +1,25 @@
+month,category,campaign_id,campaign_name,platform,spend,cpc,clicks,ctr,impressions,leads,cpl
+2024-09,Banque,BAN-01,Banque 1 (Google Ads),Google Ads,2652.94,2.55,1040,0.0224,46481,29,91.48
+2024-09,Banque,BAN-02,Banque 2 (Google Ads),Google Ads,2080.76,3.67,566,0.0323,17533,14,148.63
+2024-10,Banque,BAN-01,Banque 1 (Google Ads),Google Ads,2109.66,2.63,802,0.0347,23118,19,111.03
+2024-10,Banque,BAN-02,Banque 2 (Google Ads),Google Ads,1991.55,2.39,833,0.0294,28289,34,58.58
+2024-11,Banque,BAN-01,Banque 1 (Google Ads),Google Ads,2592.2,3.36,771,0.0252,30537,32,81.01
+2024-11,Banque,BAN-02,Banque 2 (Google Ads),Google Ads,2744.4,2.57,1067,0.0267,40002,32,85.76
+2024-12,Banque,BAN-01,Banque 1 (Google Ads),Google Ads,2784.81,3.93,708,0.0324,21863,24,116.03
+2024-12,Banque,BAN-02,Banque 2 (Google Ads),Google Ads,2802.75,1.77,1583,0.028,56516,71,39.48
+2025-01,Banque,BAN-01,Banque 1 (Google Ads),Google Ads,2713.99,3.02,898,0.0389,23108,42,64.62
+2025-01,Banque,BAN-02,Banque 2 (Google Ads),Google Ads,2870.09,3.39,846,0.0301,28128,35,82.0
+2025-02,Banque,BAN-01,Banque 1 (Google Ads),Google Ads,2445.12,1.74,1405,0.0291,48302,43,56.86
+2025-02,Banque,BAN-02,Banque 2 (Google Ads),Google Ads,2498.06,2.53,987,0.0356,27691,21,118.96
+2025-03,Banque,BAN-01,Banque 1 (Google Ads),Google Ads,2039.97,1.91,1068,0.0081,132358,33,61.82
+2025-03,Banque,BAN-02,Banque 2 (Google Ads),Google Ads,2119.46,3.82,554,0.0331,16724,15,141.3
+2025-04,Banque,BAN-01,Banque 1 (Google Ads),Google Ads,2118.08,1.7,1245,0.029,42877,46,46.05
+2025-04,Banque,BAN-02,Banque 2 (Google Ads),Google Ads,2117.51,2.29,924,0.0163,56532,37,57.23
+2025-05,Banque,BAN-01,Banque 1 (Google Ads),Google Ads,2341.45,3.83,611,0.0113,54000,28,83.62
+2025-05,Banque,BAN-02,Banque 2 (Google Ads),Google Ads,2442.32,2.16,1130,0.0365,30983,47,51.96
+2025-06,Banque,BAN-01,Banque 1 (Google Ads),Google Ads,2765.28,2.88,960,0.0218,44131,20,138.26
+2025-06,Banque,BAN-02,Banque 2 (Google Ads),Google Ads,2617.33,2.41,1086,0.0379,28685,53,49.38
+2025-07,Banque,BAN-01,Banque 1 (Google Ads),Google Ads,2493.17,2.68,930,0.0144,64644,44,56.66
+2025-07,Banque,BAN-02,Banque 2 (Google Ads),Google Ads,2760.08,2.37,1164,0.0343,33978,53,52.08
+2025-08,Banque,BAN-01,Banque 1 (Google Ads),Google Ads,2369.1,2.59,914,0.0246,37097,40,59.23
+2025-08,Banque,BAN-02,Banque 2 (Google Ads),Google Ads,2814.24,3.22,873,0.0381,22920,36,78.17

@@ -1,0 +1,25 @@
+month,category,campaign_id,campaign_name,platform,spend,cpc,clicks,ctr,impressions,leads,cpl
+2024-09,Assurance,ASS-01,Assurance 1 (Meta Ads),Meta Ads,2144.16,1.46,1468,0.0169,86905,56,38.29
+2024-09,Assurance,ASS-02,Assurance 2 (Google Ads),Google Ads,2286.48,3.41,670,0.0113,59446,30,76.22
+2024-10,Assurance,ASS-01,Assurance 1 (Meta Ads),Meta Ads,2560.96,1.93,1326,0.0103,128927,73,35.08
+2024-10,Assurance,ASS-02,Assurance 2 (Google Ads),Google Ads,2668.55,2.84,939,0.0158,59302,45,59.3
+2024-11,Assurance,ASS-01,Assurance 1 (Meta Ads),Meta Ads,2234.19,2.5,893,0.0124,71861,44,50.78
+2024-11,Assurance,ASS-02,Assurance 2 (Google Ads),Google Ads,2523.59,3.39,744,0.0356,20925,26,97.06
+2024-12,Assurance,ASS-01,Assurance 1 (Meta Ads),Meta Ads,2369.04,1.61,1471,0.0144,102400,66,35.89
+2024-12,Assurance,ASS-02,Assurance 2 (Google Ads),Google Ads,2321.79,1.9,1221,0.0385,31704,81,28.66
+2025-01,Assurance,ASS-01,Assurance 1 (Meta Ads),Meta Ads,2440.94,1.42,1718,0.0295,58249,77,31.7
+2025-01,Assurance,ASS-02,Assurance 2 (Google Ads),Google Ads,2048.74,3.75,546,0.0224,24323,21,97.56
+2025-02,Assurance,ASS-01,Assurance 1 (Meta Ads),Meta Ads,2679.2,1.88,1425,0.0287,49690,46,58.24
+2025-02,Assurance,ASS-02,Assurance 2 (Google Ads),Google Ads,2835.65,3.32,854,0.0336,25402,29,97.78
+2025-03,Assurance,ASS-01,Assurance 1 (Meta Ads),Meta Ads,2788.02,1.95,1429,0.0314,45544,87,32.05
+2025-03,Assurance,ASS-02,Assurance 2 (Google Ads),Google Ads,2264.36,3.15,718,0.0236,30457,26,87.09
+2025-04,Assurance,ASS-01,Assurance 1 (Meta Ads),Meta Ads,2930.39,1.27,2307,0.0165,139821,81,36.18
+2025-04,Assurance,ASS-02,Assurance 2 (Google Ads),Google Ads,2461.37,3.11,791,0.0226,34951,53,46.44
+2025-05,Assurance,ASS-01,Assurance 1 (Meta Ads),Meta Ads,2211.17,0.98,2256,0.017,132579,86,25.71
+2025-05,Assurance,ASS-02,Assurance 2 (Google Ads),Google Ads,2865.47,2.36,1214,0.03,40466,77,37.21
+2025-06,Assurance,ASS-01,Assurance 1 (Meta Ads),Meta Ads,2158.41,0.77,2803,0.0194,144113,160,13.49
+2025-06,Assurance,ASS-02,Assurance 2 (Google Ads),Google Ads,3009.94,3.17,949,0.0193,49125,49,61.43
+2025-07,Assurance,ASS-01,Assurance 1 (Meta Ads),Meta Ads,2827.43,1.1,2570,0.0291,88252,118,23.96
+2025-07,Assurance,ASS-02,Assurance 2 (Google Ads),Google Ads,2324.1,2.2,1056,0.0102,103312,64,36.31
+2025-08,Assurance,ASS-01,Assurance 1 (Meta Ads),Meta Ads,2460.71,1.05,2343,0.0218,107469,159,15.48
+2025-08,Assurance,ASS-02,Assurance 2 (Google Ads),Google Ads,3014.02,3.8,793,0.0279,28381,44,68.5

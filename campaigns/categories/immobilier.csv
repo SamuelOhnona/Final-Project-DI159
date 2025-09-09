@@ -1,0 +1,25 @@
+month,category,campaign_id,campaign_name,platform,spend,cpc,clicks,ctr,impressions,leads,cpl
+2024-09,Immobilier,IMM-01,Immobilier 1 (Google Ads),Google Ads,2781.49,3.81,730,0.0105,69381,21,132.45
+2024-09,Immobilier,IMM-02,Immobilier 2 (Google Ads),Google Ads,2766.44,3.07,901,0.0363,24797,27,102.46
+2024-10,Immobilier,IMM-01,Immobilier 1 (Google Ads),Google Ads,2758.45,1.64,1681,0.0343,49012,74,37.28
+2024-10,Immobilier,IMM-02,Immobilier 2 (Google Ads),Google Ads,2290.42,2.5,916,0.0101,90531,43,53.27
+2024-11,Immobilier,IMM-01,Immobilier 1 (Google Ads),Google Ads,2163.75,2.13,1015,0.0257,39489,48,45.08
+2024-11,Immobilier,IMM-02,Immobilier 2 (Google Ads),Google Ads,2160.48,3.2,675,0.0117,57862,31,69.69
+2024-12,Immobilier,IMM-01,Immobilier 1 (Google Ads),Google Ads,2755.67,3.52,782,0.0157,49928,21,131.22
+2024-12,Immobilier,IMM-02,Immobilier 2 (Google Ads),Google Ads,2753.22,2.92,942,0.0105,89541,39,70.6
+2025-01,Immobilier,IMM-01,Immobilier 1 (Google Ads),Google Ads,2086.68,1.65,1264,0.0102,124448,26,80.26
+2025-01,Immobilier,IMM-02,Immobilier 2 (Google Ads),Google Ads,2436.09,2.33,1045,0.0245,42735,29,84.0
+2025-02,Immobilier,IMM-01,Immobilier 1 (Google Ads),Google Ads,2432.88,1.69,1439,0.0339,42502,65,37.43
+2025-02,Immobilier,IMM-02,Immobilier 2 (Google Ads),Google Ads,2368.03,1.74,1360,0.0289,47109,49,48.33
+2025-03,Immobilier,IMM-01,Immobilier 1 (Google Ads),Google Ads,2900.5,2.69,1078,0.0374,28807,38,76.33
+2025-03,Immobilier,IMM-02,Immobilier 2 (Google Ads),Google Ads,2938.76,1.64,1791,0.0243,73854,81,36.28
+2025-04,Immobilier,IMM-01,Immobilier 1 (Google Ads),Google Ads,2640.71,2.76,956,0.0122,78113,29,91.06
+2025-04,Immobilier,IMM-02,Immobilier 2 (Google Ads),Google Ads,2088.61,1.67,1250,0.0158,79028,35,59.67
+2025-05,Immobilier,IMM-01,Immobilier 1 (Google Ads),Google Ads,2562.02,1.61,1591,0.0187,85199,38,67.42
+2025-05,Immobilier,IMM-02,Immobilier 2 (Google Ads),Google Ads,2453.25,3.95,621,0.0132,47150,20,122.66
+2025-06,Immobilier,IMM-01,Immobilier 1 (Google Ads),Google Ads,2080.89,3.5,594,0.0137,43466,19,109.52
+2025-06,Immobilier,IMM-02,Immobilier 2 (Google Ads),Google Ads,2421.42,1.95,1241,0.0376,33019,53,45.69
+2025-07,Immobilier,IMM-01,Immobilier 1 (Google Ads),Google Ads,2463.01,3.69,667,0.0164,40772,24,102.63
+2025-07,Immobilier,IMM-02,Immobilier 2 (Google Ads),Google Ads,2107.58,3.96,532,0.0092,57674,20,105.38
+2025-08,Immobilier,IMM-01,Immobilier 1 (Google Ads),Google Ads,2211.94,2.89,765,0.0141,54106,30,73.73
+2025-08,Immobilier,IMM-02,Immobilier 2 (Google Ads),Google Ads,2064.79,2.45,842,0.0319,26361,21,98.32

@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+faker
+streamlit
+fastapi
+uvicorn
+openai
+pillow
+plotly
+sqlalchemy
+python-dotenv
